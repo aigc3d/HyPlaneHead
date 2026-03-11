@@ -34,7 +34,7 @@ conda activate hyplanehead
 
 ## Getting Started
 
-1. Download the pre-trained checkpoint from [Google Drive](https://drive.google.com/drive/folders/1m517-F1NCTGA159dePs5R5qj02svtX1_?usp=sharing) or [OSS_Link](https://virutalbuy-public.oss-cn-hangzhou.aliyuncs.com/share/aigc3d/data/for_lingteng/checkpoints/nips2025/hyplanehead/hyplanehead-ckpt.pkl) and place it under the `model` directory.
+1. Download the pre-trained checkpoint from [OSS_Link](https://virutalbuy-public.oss-cn-hangzhou.aliyuncs.com/share/aigc3d/data/for_lingteng/checkpoints/nips2025/hyplanehead/hyplanehead-ckpt.pkl) and place it under the `model` directory.
 2. Pre-trained networks are stored as `*.pkl` files that can be referenced using local filenames.
 
 ## Generating Samples
